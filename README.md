@@ -1,2 +1,3 @@
 # E-Commerce-Backend-Engine
 A Python-based RESTful API backend for an e-commerce platform, supporting user management, product catalog, cart functionality, order processing, and admin controls. Designed for scalability, maintainability, and easy frontend integration.
+This project is designed as a foundational RESTful API backend for a modern e-commerce platform. Built with Python, it focuses on providing core functionalities necessary for an online shopping experience, including user management, product catalog, shopping cart logic, order processing, and an administrative control panel. The system is architected to be scalable and maintainable, offering a clear separation of concerns suitable for integration with various frontend applications.
